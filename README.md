@@ -135,7 +135,7 @@
 
             const word= document.createElement('div');
             word.className= 'love_word';
-            word.textContent='Happy b-day!';
+            word.textContent='Happy Birthday Didi!';
 
             v.appendChild(word);
             h.appendChild(v);
